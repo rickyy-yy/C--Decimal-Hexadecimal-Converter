@@ -1,0 +1,14 @@
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.AssemblyInfo.cs
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\bin\Debug\net8.0\DecimalToHexadecimal.exe
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\bin\Debug\net8.0\DecimalToHexadecimal.deps.json
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\bin\Debug\net8.0\DecimalToHexadecimal.runtimeconfig.json
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\bin\Debug\net8.0\DecimalToHexadecimal.dll
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\bin\Debug\net8.0\DecimalToHexadecimal.pdb
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.dll
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\refint\DecimalToHexadecimal.dll
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.pdb
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\DecimalToHexadecimal.genruntimeconfig.cache
+C:\Users\Richie\Documents\C#\DecimalToHexadecimal\obj\Debug\net8.0\ref\DecimalToHexadecimal.dll
